@@ -1,10 +1,6 @@
+# Ashwinth-Portfolio
 
-                                                                          # Ashwinth-Portfolio
-
-                                                                          ![image](https://github.com/Ashwinth07/Ashwinth_Portfolio/assets/91009355/420e9bb0-97ed-4ecd-a84d-00ba2d3704c3)
-                                                                          ![image](https://github.com/Ashwinth07/Ashwinth_Portfolio/assets/91009355/24b7d8a9-1f03-4053-aaec-21de025dd94f)
-                                                                          ![image](https://github.com/Ashwinth07/Ashwinth_Portfolio/assets/91009355/aaacee96-fb2a-4936-a15b-c4e28d18f6e1)
-
+![image](https://github.com/Ashwinth07/Ashwinth_Portfolio/assets/91009355/dd415d76-2620-483c-b8e0-82b349c4e9cd)
 
 
 
