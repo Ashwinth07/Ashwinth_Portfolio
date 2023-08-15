@@ -16,5 +16,5 @@ https://ashwinth-portfolio.netlify.app/
 
 **Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express
+
 
